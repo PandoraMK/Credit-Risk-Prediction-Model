@@ -129,7 +129,7 @@ This model gives lenders a data-driven tool to:
 
 ---
 
-## Saved Artifacts
+## Saved Models
 
 The trained Logistic Regression model and feature column names are saved using `pickle` for deployment or future use:
 

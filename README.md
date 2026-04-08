@@ -50,19 +50,6 @@ The dataset contains personal financial and loan-related information for a sampl
 - `person_emp_length`: Missing values filled with `0`, interpreted as currently unemployed or no employment history.
 - `loan_int_rate`: Missing values filled with `0`, treated as no interest rate recorded.
 
----
-
-## Project Structure
-
-```
-credit-risk-prediction/
-│
-├── credit_risk_dataset.csv       # Raw dataset
-├── credit_risk_model.ipynb       # Main Jupyter notebook
-├── credit_model.pkl              # Saved Logistic Regression model
-├── feature_columns.pkl           # Saved feature column names
-└── README.md                     # This file
-```
 
 ---
 

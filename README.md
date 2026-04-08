@@ -145,7 +145,7 @@ with open("feature_columns.pkl", "rb") as f:
     features = pickle.load(f)
 ```
 
-These files can be integrated into a Streamlit dashboard or a FastAPI deployment endpoint for real-time predictions.
+These files can be integrated into a Streamlit dashboard.
 
 ---
 

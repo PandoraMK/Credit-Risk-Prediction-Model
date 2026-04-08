@@ -107,8 +107,6 @@ Random Forest's built-in feature importances are extracted and ranked to identif
 | Logistic Regression | ~85% |
 | Random Forest | ~93% |
 
-> *Exact figures will vary slightly depending on your environment and library versions.*
-
 ---
 
 ## Key Findings

@@ -151,5 +151,5 @@ These files can be integrated into a Streamlit dashboard or a FastAPI deployment
 
 ## Author
 
-*[Your Name]*
+*Modiri Mokaila*
 MSc Physics | Data Science Portfolio Project

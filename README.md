@@ -1,6 +1,6 @@
 # Credit Risk Prediction Model
 
-A machine learning project that predicts the probability of loan default using applicant financial and demographic data. Built with Python, scikit-learn, Logistic Regression, and Random Forest.
+A machine learning project that predicts the probability of loan default using applicant financial and demographic data. Built with Python, scikit-learn, Logistic Regression, and Random Forest (see https://credit-risk-modeling.netlify.app/).
 
 ---
 
